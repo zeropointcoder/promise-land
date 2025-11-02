@@ -1,4 +1,4 @@
-# 100-JS-games
+# 100-JS-games: 100 JS games
 
 🟢 Beginner (Projects 1–20)
 

@@ -6,7 +6,7 @@ Focus: DOM manipulation, basic JS, event handling
 
 | # | Project | Description |
 |---|--------------|------|
-| 1 | Number Guessing Game | Input number, give feedback |
+| 1 | [Number Guessing Game](https://github.com/zeropointcoder/100-js-games/tree/main/number-guessing-game) | Input number, give feedback |
 | 2 | Rock-Paper-Scissors | Basic logic, DOM buttons |
 | 3 | Coin Toss Simulator | Random results, display winner |
 | 4 | Dice Roller | Roll one dice, show number |

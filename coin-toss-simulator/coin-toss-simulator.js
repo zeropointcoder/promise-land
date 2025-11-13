@@ -1,5 +1,5 @@
 // Coin Toss Simulator
-// Run with: node coinTossSimulator.js
+// Run: node coin-toss-simulator.js
 
 import readline from 'readline'
 

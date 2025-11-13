@@ -9,7 +9,7 @@ Focus: DOM manipulation, basic JS, event handling
 | 1 | [Number Guessing Game](https://github.com/zeropointcoder/100-js-games/tree/main/number-guessing-game) | Input number |
 | 2 | [Rock Paper Scissors](https://github.com/zeropointcoder/100-js-games/tree/main/rock-paper-scissors) | Basic logic |
 | 3 | [Coin Toss Simulator](https://github.com/zeropointcoder/100-js-games/tree/main/coin-toss-simulator) | Random results, display winner |
-| 4 | Dice Roller | Roll one dice, show number |
+| 4 | [Dice Roller](https://github.com/zeropointcoder/100-js-games/tree/main/dice-roller) | Roll one dice, show number |
 | 5 | Dice Roller (2 Dice) | Roll two dice, sum numbers |
 | 6 | Color Guessing Game | Guess color based on RGB |
 | 7 | Simple Quiz Game | Multiple choice, score tracking |

@@ -1,6 +1,4 @@
-# 100-JS-games: 100 JS games
-
-🟢 Beginner (Projects 1–20)
+# 100 JS games
 
 Focus: DOM manipulation, basic JS, event handling
 
@@ -27,8 +25,6 @@ Focus: DOM manipulation, basic JS, event handling
 | 19 | Click Counter Game | Count clicks in time limit |
 | 20 | Color Switch Game (1 Button) | Change color to match target |
 
-🟡 Easy–Intermediate (Projects 21–40)
-
 Focus: Arrays, loops, basic Canvas, ES6 classes
 
 | # | Project | Description |
@@ -53,8 +49,6 @@ Focus: Arrays, loops, basic Canvas, ES6 classes
 | 38 | Simple Space Shooter | Move spaceship, shoot bullets |
 | 39 | Catch the Falling Stars | Score by catching stars |
 | 40 | Simple Puzzle Slider | Arrange tiles in order |
-
-🟠 Intermediate (Projects 41–70)
 
 Focus: Canvas, animations, ES6 modules, classes, collision detection
 
@@ -90,8 +84,6 @@ Focus: Canvas, animations, ES6 modules, classes, collision detection
 | 68 | Snake AI Game | Snake moves with AI logic |
 | 69 | Fruit Ninja Clone | Slice fruits, score points |
 | 70 | Mini Golf Game | Ball trajectory, holes, obstacles |
-
-🔵 Advanced (Projects 71–90)
 
 Focus: Advanced ES6, classes, inheritance, Canvas animation, physics
 

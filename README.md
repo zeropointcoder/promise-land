@@ -10,7 +10,7 @@ Focus: DOM manipulation, basic JS, event handling
 | 4 | [Dice Roller](https://github.com/zeropointcoder/100-js-games/tree/main/dice-roller) | Roll one dice, show number |
 | 5 | [Dice Roller (2 Dice)](https://github.com/zeropointcoder/100-js-games/tree/main/dice-roller-2-dice) | Roll two dice, sum numbers |
 | 6 | [Colour Guessing Game](https://github.com/zeropointcoder/100-js-games/tree/main/colour-guessing-game) | Guess color based on RGB |
-| 7 | Simple Quiz Game | Multiple choice, score tracking |
+| 7 | [Quiz Game](https://github.com/zeropointcoder/100-js-games/tree/main/quiz-game) | Multiple choice, score tracking |
 | 8 | Yes/No Question Game | Random yes/no feedback |
 | 9 | Math Trivia Game | Addition/subtraction problems |
 | 10 | Odd or Even Game | Guess if number is odd/even |

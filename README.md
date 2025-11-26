@@ -1,4 +1,4 @@
-# 100 JS games
+# `Promise` Land
 
 Focus: DOM manipulation, basic JS, event handling
 

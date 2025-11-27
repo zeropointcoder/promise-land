@@ -1,7 +1,5 @@
 # `Promise` Land
 
-Focus: DOM manipulation, basic JS, event handling
-
 | # | Project | Description |
 |---|--------------|------|
 | 1 | [Number Guessing Game](https://github.com/zeropointcoder/100-js-games/tree/main/number-guessing-game) | Input number |
@@ -24,11 +22,6 @@ Focus: DOM manipulation, basic JS, event handling
 | 18 | Simple Simon Says Game | Follow 3-step pattern |
 | 19 | Click Counter Game | Count clicks in time limit |
 | 20 | Color Switch Game (1 Button) | Change color to match target |
-
-Focus: Arrays, loops, basic Canvas, ES6 classes
-
-| # | Project | Description |
-|---|--------------|------|
 | 21 | Memory Card Flip (4 Pairs) | Expand board size |
 | 22 | Number Memory Game | Remember numbers in sequence |
 | 23 | Reaction Time Game | Measure click response time |
@@ -49,11 +42,6 @@ Focus: Arrays, loops, basic Canvas, ES6 classes
 | 38 | Simple Space Shooter | Move spaceship, shoot bullets |
 | 39 | Catch the Falling Stars | Score by catching stars |
 | 40 | Simple Puzzle Slider | Arrange tiles in order |
-
-Focus: Canvas, animations, ES6 modules, classes, collision detection
-
-| # | Project | Description |
-|---|--------------|------|
 | 41 | Advanced Brick Breaker | Add power-ups |
 | 42 | Snake Game with Walls | Harder snake level |
 | 43 | Platformer with Obstacles | Jump over obstacles |
@@ -84,11 +72,6 @@ Focus: Canvas, animations, ES6 modules, classes, collision detection
 | 68 | Snake AI Game | Snake moves with AI logic |
 | 69 | Fruit Ninja Clone | Slice fruits, score points |
 | 70 | Mini Golf Game | Ball trajectory, holes, obstacles |
-
-Focus: Advanced ES6, classes, inheritance, Canvas animation, physics
-
-| # | Project | Description |
-|---|--------------|------|
 | 71 | Physics-based Pong | Add gravity and collisions |
 | 72 | 3D Cube Rotation Game | Use CSS 3D transforms |
 | 73 | Physics Ball Drop Game | Bounce physics with gravity |
@@ -109,13 +92,6 @@ Focus: Advanced ES6, classes, inheritance, Canvas animation, physics
 | 88 | Fishing Game | Cast line, catch fish with timer |
 | 89 | Platformer with Multiple Levels | Save/load progress |
 | 90 | Space Shooter with Level Editor | Design custom levels |
-
-🔴 Expert (Projects 91–100)
-
-Focus: Complex ES6 concepts, OOP, modules, multiplayer, AI, physics
-
-| # | Project | Description |
-|---|--------------|------|
 | 91 | Mini MMORPG | Player movement, stats, server sync |
 | 92 | 2D Multiplayer Racing | Multiple players, websockets |
 | 93 | AI Snake Battle | Multiple snakes with AI competition |

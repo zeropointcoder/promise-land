@@ -2,13 +2,13 @@
 
 | # | Project | Description |
 |---|--------------|------|
-| 1 | [Number Guessing Game](https://github.com/zeropointcoder/100-js-games/tree/main/number-guessing-game) | Input number |
-| 2 | [Rock Paper Scissors](https://github.com/zeropointcoder/100-js-games/tree/main/rock-paper-scissors) | Basic logic |
-| 3 | [Coin Toss Simulator](https://github.com/zeropointcoder/100-js-games/tree/main/coin-toss-simulator) | Random results, display winner |
-| 4 | [Dice Roller](https://github.com/zeropointcoder/100-js-games/tree/main/dice-roller) | Roll one dice, show number |
-| 5 | [Dice Roller (2 Dice)](https://github.com/zeropointcoder/100-js-games/tree/main/dice-roller-2-dice) | Roll two dice, sum numbers |
-| 6 | [Colour Guessing Game](https://github.com/zeropointcoder/100-js-games/tree/main/colour-guessing-game) | Guess color based on RGB |
-| 7 | [Quiz Game](https://github.com/zeropointcoder/100-js-games/tree/main/quiz-game) | Multiple choice, score tracking |
+| 1 | [Number Guessing Game](https://github.com/zeropointcoder/promise-land/tree/main/number-guessing-game) | Input number |
+| 2 | [Rock Paper Scissors](https://github.com/zeropointcoder/promise-land/tree/main/rock-paper-scissors) | Basic logic |
+| 3 | [Coin Toss Simulator](https://github.com/zeropointcoder/promise-land/tree/main/coin-toss-simulator) | Random results, display winner |
+| 4 | [Dice Roller](https://github.com/zeropointcoder/promise-land/tree/main/dice-roller) | Roll one dice, show number |
+| 5 | [Dice Roller (2 Dice)](https://github.com/zeropointcoder/promise-land/tree/main/dice-roller-2-dice) | Roll two dice, sum numbers |
+| 6 | [Colour Guessing Game](https://github.com/zeropointcoder/promise-land/tree/main/colour-guessing-game) | Guess color based on RGB |
+| 7 | [Quiz Game](https://github.com/zeropointcoder/promise-land/tree/main/quiz-game) | Multiple choice, score tracking |
 | 8 | Yes/No Question Game | Random yes/no feedback |
 | 9 | Math Trivia Game | Addition/subtraction problems |
 | 10 | Odd or Even Game | Guess if number is odd/even |
